@@ -1,4 +1,3 @@
-import torch
 from torch import nn
 
 DIM = 64 # This overfits substantially; you're probably better off with 64
