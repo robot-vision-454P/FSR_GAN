@@ -1,6 +1,7 @@
 ## Model
 
 생성모델을 사용하여 non-robust feature에서 원래 feature로 생성할 수 있도록 하였다.
+
 생성 모델을 활용하면, non-robust feature을 original feature와 비슷하게 생성하여 적대적 예제에도 강건한 모델을 생성할 수 있다.
 
 ![MODEL_FIGURE](/figures/figure.png "framework")
