@@ -29,4 +29,5 @@ python test.py --load_name cifar10_vgg16 --dataset cifar10 --model vgg16 --devic
 ## Reference
 
 https://github.com/wkim97/FSR
+
 https://github.com/sky4689524/DefenseGAN-Pytorch
